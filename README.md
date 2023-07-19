@@ -1,7 +1,7 @@
 # Optimizing_Agricultural_Production
 
 ## Problem Statement -
-Developing a model to identify the most suitable crop to grow in a specific agricultural region using data on weather, soil conditions and crop growthDeveloping a model to identify the most suitable crop to grow in a specific agricultural region using data on weather, soil conditions and crop growth
+Developing a model to identify the most suitable crop to grow in a specific agricultural region using data on weather, soil conditions and crop growth
 
 ## Goal -
 To achieve precision farming by optimizing the agricultural production.
